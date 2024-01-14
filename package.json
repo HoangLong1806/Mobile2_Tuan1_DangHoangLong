@@ -1,0 +1,18 @@
+h{
+  "name": "buoi1_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch":"nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.0-dev.20240108"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
